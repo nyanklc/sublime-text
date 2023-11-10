@@ -1,0 +1,1438 @@
+{
+	"file_history":
+	[
+		"/home/noyan/magwel/src/.clangd",
+		"/home/noyan/magwel/src/compile_commands.json",
+		"/home/noyan/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/noyan/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/noyan/.config/sublime-text/Packages/User/C++.sublime-settings",
+		"/home/noyan/.config/sublime-text/Packages/Default/Distraction Free.sublime-settings",
+		"/home/noyan/.config/sublime-text/Packages/User/Distraction Free.sublime-settings",
+		"/home/noyan/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/noyan/.config/sublime-text/Packages/LSP/Default.sublime-keymap",
+		"/home/noyan/.config/sublime-text/Packages/LSP-clangd/LSP-clangd.sublime-settings",
+		"/home/noyan/.config/sublime-text/Packages/User/LSP-clangd.sublime-settings",
+		"/home/noyan/magwel/src/util/solvermode.h",
+		"/home/noyan/magwel/src/editem/editem/esdsummaryview/esdsummaryview.cpp",
+		"/home/noyan/magwel/src/util/threadpool.cpp",
+		"/home/noyan/magwel/src/rf3dutil/src/abstractdatafile.h",
+		"/home/noyan/magwel/src/util/testarchive/overstresseddevicelocation.h",
+		"/home/noyan/magwel/src/util/testarchive/overstresseddevicelocationinfo.h",
+		"/home/noyan/Desktop/noyanlog.txt",
+		"/home/noyan/Desktop/noyan (3).txt",
+		"/home/noyan/Desktop/noyan.txt",
+		"/home/noyan/Downloads/noyanzoom.deb",
+		"/home/noyan/Downloads/solver_out.log",
+		"/home/noyan/Desktop/Untitled Document 1asd",
+		"/home/noyan/Downloads/alacritty.yml",
+		"/home/noyan/noyan/comput/CMakeLists.txt",
+		"/home/noyan/noyan/think-cell/main.cpp",
+		"/home/noyan/noyan/think-cell/CMakeLists.txt",
+		"/home/noyan/magwel/src/codestar/codestar_api/external/main.cpp",
+		"/home/noyan/magwel/src/codestar/codestar_api/external/cdstrexternaloperations.cpp",
+		"/home/noyan/magwel/src/gdsimport/src/gdsrunner.cpp",
+		"/home/noyan/magwel/src/codestar/codestar_api/tools/cdstrextgeometry.h",
+		"/home/noyan/magwel/src/util/memstats.h",
+		"/home/noyan/Downloads/playbook.yml",
+		"/home/noyan/noyan/comput/device.cpp",
+		"/home/noyan/noyan/comput/CmakeLists.txt",
+		"/home/noyan/noyan/agent-pi/CMakeLists.txt",
+		"/home/noyan/noyan/agent-pi/src/main.cpp",
+		"/home/noyan/magwel/src/gdsimport/gdsrunner.cpp",
+		"/home/noyan/magwel/src/codestar/codestar_api/external/shapecorrectors.cpp",
+		"/home/noyan/magwel/src/codestar/codestar_api/external/shapecorrectors.h",
+		"/home/noyan/magwel/src/codestar/codestar_api/external/cdstrextgdslayer.cpp",
+		"/home/noyan/magwel/src/codestar/codestar_api/external/cdstrextedgetrafocoltors.cpp",
+		"/home/noyan/junk/magwel/src/gdsimport/gdsrunner.cpp",
+		"/home/noyan/junk/compare/input.txt",
+		"/home/noyan/magwel/qa/testcases/import/avoids_abutted_shapes/valgrind-out.mem.txt",
+		"/home/noyan/junk/compare/input",
+		"/home/noyan/magwel/qa/testcases/import/unitTestcases/gds/via_sandwich/valgrind-out.mem.txt",
+		"/home/noyan/junk/magwel/qa/testcases/import/unitTestcases/gds/via_sandwich/valgrind-out.mem.txt",
+		"/home/noyan/magwel/qa/testcases/import/unitTestcases/gds/cell_instances/array_cells/valgrind-out.mem.txt",
+		"/home/noyan/junk/magwel/qa/testcases/import/unitTestcases/gds/cell_instances/array_cells/valgrind-out.mem.txt",
+		"/home/noyan/magwel/qa/testcases/import/unitTestcases/externalPads/empower/valgrind-out.mem.txt",
+		"/home/noyan/magwel/qa/testcases/import/unitTestcases/gds/cell_instances/row_column_cells/valgrind-out.mem.txt",
+		"/home/noyan/magwel/qa/testcases/import/unitTestcases/gds/cell_instances/rotated_array_cells/valgrind-out.mem.txt",
+		"/home/noyan/junk/magwel/src/gdsimport/include/gdsimport/gds.h",
+		"/home/noyan/junk/magwel/src/gdsimport/include/gdsimport/gdstransform.h",
+		"/home/noyan/junk/magwel/src/gdsimport/src/gds.cpp",
+		"/home/noyan/junk/magwel/src/gdsimport/src/gdsrunner.cpp",
+		"/home/noyan/junk/magwel/src/rf3dutil/depcomp",
+		"/home/noyan/magwel/qa/etc/log4cpp_api.conf",
+		"/home/noyan/magwel/src/gdsimport/gds/gds.cpp",
+		"/home/noyan/magwel/qa/testcases/import/unitTestcases/incompleteImport/run.out",
+		"/home/noyan/magwel/qa/lib/MW/QA/Recorders/StructureRecorder.pm",
+		"/home/noyan/magwel/qa/testcases/schematicESD/onsemi/cgnmos3p3v_iso_dtil_4kv/layout.gds.gz",
+		"/home/noyan/magwel/qa/bin/createCoreDeviceFiles.pl",
+		"/home/noyan/magwel/qa/testcases/import/avoids_abutted_shapes/import.log",
+		"/home/noyan/magwel/src/codestar/codestar_api/external/cdstrextgdslayer.h",
+		"/home/noyan/magwel/src/gdsimport/layoutdata/layoutrect.h",
+		"/home/noyan/magwel/src/gdsimport/layoutdata/layoutrect.cpp",
+		"/home/noyan/magwel/src/gdsimport/gds/gds.h",
+		"/home/noyan/magwel/qa/testcases/import/avoids_abutted_shapes/run.out",
+		"/home/noyan/junk/magwel/src/gdsimport/layoutdata/layoutrepetition.cpp",
+		"/home/noyan/junk/magwel/src/gdsimport/gds/gds.cpp",
+		"/home/noyan/magwel/src/gdsimport/layoutdata/unittest/test_layoutdata.cpp",
+		"/home/noyan/junk/magwel/src/gdsimport/oasis/oasisfile.h",
+		"/home/noyan/junk/magwel/src/gdsimport/oasis/oasisfile.cpp",
+		"/home/noyan/junk/magwel/src/gdsimport/layoutdata/layoutrepetition.h",
+		"/home/noyan/files_magwel/magwel-build-box/ansible.cfg",
+		"/home/noyan/files_magwel/magwel-build-box/playbook.yml",
+		"/home/noyan/junk/camfix/linux-hwe-6.2-6.2.0/drivers/media/usb/uvc/uvc_driver.c",
+		"/home/noyan/junk/magwel/src/gdsimport/layoutdata/layoutdefs.h",
+		"/home/noyan/magwel/src/gdsimport/layoutdata/layoutcell.cpp",
+		"/home/noyan/junk/test/asd.cpp",
+		"/home/noyan/magwel/src/gdsimport/layoutdata/layoutbox.h",
+		"/home/noyan/noyan/agent-pi/test/serial/serial_test.cpp",
+		"/home/noyan/noyan/agent-pi/include/agent.h",
+		"/home/noyan/noyan/agent-pi/include/globals.h",
+		"/home/noyan/noyan/agent-pi/include/arduino_commands.h",
+		"/home/noyan/noyan/agent-pi/include/tag_pose.h",
+		"/home/noyan/noyan/agent-pi/src/agent.cpp",
+		"/home/noyan/junk/test/test.cpp",
+		"/home/noyan/noyan/sim/main.py",
+		"/home/noyan/noyan/agent-pi/run.sh",
+		"/home/noyan/noyan/agent-pi/src/send.sh",
+		"/home/noyan/.ssh/id_rsa.pub",
+		"/home/noyan/noyan/agent-pi/include/utils.h",
+		"/home/noyan/noyan/agent-pi/src/utils.cpp",
+		"/home/noyan/noyan/agent-pi/include/april_tag_detector.h",
+		"/home/noyan/noyan/agent-pi/src/april_tag_detector.cpp",
+		"/home/noyan/magwel/src/gdsimport/include/gdsimport/gdsrunner.h",
+		"/home/noyan/noyan/agent-pi/include/camera_controller.h",
+		"/home/noyan/noyan/agent-pi/test/serial/arduino_serial/arduino_serial.ino",
+		"/home/noyan/noyan/agent-pi/src/camera_controller.cpp",
+		"/home/noyan/junk/agent-pi/include/agent.h",
+		"/home/noyan/junk/agent-pi/src/agent.cpp",
+		"/home/noyan/noyan/agent-pi/include/simple_controller.h",
+		"/home/noyan/noyan/agent-pi/src/simple_controller.cpp",
+		"/home/noyan/noyan/agent-pi/include/external/PID.cpp",
+		"/home/noyan/noyan/agent-pi/include/external/PID.h",
+		"/home/noyan/Desktop/sim(1)/sim/GUI.py",
+		"/home/noyan/Desktop/sim(1)/sim/main.py",
+		"/home/noyan/noyan/sim/pid.py",
+		"/home/noyan/noyan/sim/object.py",
+		"/home/noyan/noyan/sim/send_arr.py",
+		"/home/noyan/noyan/sim/car.py",
+		"/home/noyan/noyan/sim/game_window.py",
+		"/home/noyan/noyan/sim/eren.py",
+		"/home/noyan/noyan/means-arduino/master_stepper/master",
+		"/home/noyan/noyan/means-arduino/master_stepper/master.ino",
+		"/home/noyan/magwel/src/editem/editem/gdsimporter/gdsrunner.cpp",
+		"/home/noyan/Downloads/eren.py",
+		"/home/noyan/noyan/sim/send.py",
+		"/home/noyan/noyan/sim/dummy.py",
+		"/home/noyan/Downloads/evol.py",
+		"/home/noyan/magwel/src/codestar/codestar_api/cdstrstructure.h",
+		"/home/noyan/magwel/src/codestar/codestar_api/geometry/cdstrgeometry.h",
+		"/home/noyan/magwel/src/codestar/codestar_api/geometry/containers/cdstrcontactsurfacecontainer.cpp",
+		"/home/noyan/magwel/src/codestar/codestar_api/geometry/containers/cdstrlayershapecontainer.cpp",
+		"/home/noyan/magwel/src/codestar/codestar_api/geometry/cdstrlayer.cpp"
+	],
+	"folder_history":
+	[
+		"/home/noyan/magwel/src",
+		"/home/noyan/Downloads",
+		"/home/noyan/noyan/comput",
+		"/home/noyan/noyan/think-cell",
+		"/home/noyan/noyan",
+		"/home/noyan/junk/magwel/src",
+		"/home/noyan/magwel/qa",
+		"/home/noyan/junk/magwel/src/gdsimport/layoutdata/unittest",
+		"/home/noyan/junk/test",
+		"/home/noyan/noyan/sim",
+		"/home/noyan/noyan/agent-pi",
+		"/home/noyan/junk/agent-pi",
+		"/home/noyan/noyan/rl49",
+		"/home/noyan/magwel/src/gdsimport",
+		"/home/noyan/noyan/evo49",
+		"/home/noyan/p5/lib",
+		"/home/noyan/noyan/means-gui",
+		"/home/noyan/noyan_ws/evo49",
+		"/home/noyan/magwel_ws/src/gdsimport",
+		"/home/noyan/noyan_ws/agent-pi"
+	],
+	"last_version": 4152,
+	"last_window_id": 56,
+	"log_indexing": false,
+	"next_update_check": 1699681153,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 766.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			71.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Cdstr",
+						"CdstrCellMaster"
+					],
+					[
+						"_addSHapes",
+						"_addShapesToExternal"
+					],
+					[
+						"print",
+						"printClass"
+					],
+					[
+						"prin",
+						"printClass"
+					],
+					[
+						"new",
+						"new_x_offset"
+					],
+					[
+						"tick",
+						"tickSimpleControllers"
+					],
+					[
+						"left_con",
+						"left_controller_simple_"
+					],
+					[
+						"LEFT",
+						"LEFT_MOTOR_P"
+					],
+					[
+						"liear",
+						"current_linear_speed_"
+					],
+					[
+						"angul",
+						"angular_speed"
+					],
+					[
+						"angu",
+						"angular_speed"
+					],
+					[
+						"LIM_",
+						"LIN_LIM_MAX"
+					],
+					[
+						"mutate",
+						"mutated_pop"
+					],
+					[
+						"chid",
+						"children_updated_pop"
+					],
+					[
+						"num_gen",
+						"num_genes"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"settings",
+						"Preferences: LSP-clangd Settings"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove\\",
+						"Package Control: Remove Package"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/noyan/magwel/src/util/filereader.cpp",
+				"/home/noyan/magwel/src/.clangd",
+				"/home/noyan/magwel/src/compile_commands.json",
+				"/home/noyan/magwel/src/util/solvermode.h",
+				"/home/noyan/magwel/src/editem/editem/esdsummaryview/esdsummaryview.cpp",
+				"/home/noyan/magwel/src/util/threadpool.cpp",
+				"/home/noyan/magwel/src/rf3dutil/src/abstractdatafile.h",
+				"/home/noyan/magwel/src/util/testarchive/overstresseddevicelocation.h",
+				"/home/noyan/magwel/src/util/testarchive/overstresseddevicelocationinfo.h",
+				"/home/noyan/Desktop/noyanlog.txt",
+				"/home/noyan/Desktop/noyan (3).txt",
+				"/home/noyan/Desktop/noyan.txt",
+				"/home/noyan/Downloads/noyanzoom.deb",
+				"/home/noyan/Downloads/solver_out.log",
+				"/home/noyan/Desktop/Untitled Document 1asd",
+				"/home/noyan/Downloads/alacritty.yml",
+				"/home/noyan/noyan/comput/CMakeLists.txt",
+				"/home/noyan/noyan/think-cell/main.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/main.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/tools/cdstrextgeometry.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/cdstrexternaloperations.cpp",
+				"/home/noyan/magwel/src/gdsimport/src/gdsrunner.cpp",
+				"/home/noyan/magwel/src/util/memstats.h",
+				"/home/noyan/Downloads/playbook.yml",
+				"/home/noyan/noyan/comput/CmakeLists.txt",
+				"/home/noyan/noyan/comput/device.cpp",
+				"/home/noyan/noyan/agent-pi/CMakeLists.txt",
+				"/home/noyan/noyan/agent-pi/src/main.cpp",
+				"/home/noyan/magwel/src/gdsimport/gdsrunner.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/shapecorrectors.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/shapecorrectors.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/cdstrextgdslayer.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/cdstrextedgetrafocoltors.cpp",
+				"/home/noyan/junk/magwel/src/gdsimport/gdsrunner.cpp",
+				"/home/noyan/junk/compare/input.txt",
+				"/home/noyan/magwel/qa/testcases/import/avoids_abutted_shapes/valgrind-out.mem.txt",
+				"/home/noyan/junk/compare/input",
+				"/home/noyan/magwel/qa/testcases/import/unitTestcases/gds/via_sandwich/valgrind-out.mem.txt",
+				"/home/noyan/junk/magwel/qa/testcases/import/unitTestcases/gds/via_sandwich/valgrind-out.mem.txt",
+				"/home/noyan/magwel/qa/testcases/import/unitTestcases/gds/cell_instances/array_cells/valgrind-out.mem.txt",
+				"/home/noyan/junk/magwel/qa/testcases/import/unitTestcases/gds/cell_instances/array_cells/valgrind-out.mem.txt",
+				"/home/noyan/magwel/qa/testcases/import/unitTestcases/externalPads/empower/valgrind-out.mem.txt",
+				"/home/noyan/magwel/qa/testcases/import/unitTestcases/gds/cell_instances/row_column_cells/valgrind-out.mem.txt",
+				"/home/noyan/magwel/qa/testcases/import/unitTestcases/gds/cell_instances/rotated_array_cells/valgrind-out.mem.txt",
+				"/home/noyan/junk/magwel/src/gdsimport/include/gdsimport/gds.h",
+				"/home/noyan/junk/magwel/src/gdsimport/include/gdsimport/gdstransform.h",
+				"/home/noyan/junk/magwel/src/gdsimport/src/gds.cpp",
+				"/home/noyan/junk/magwel/src/gdsimport/src/gdsrunner.cpp",
+				"/home/noyan/junk/magwel/src/rf3dutil/depcomp",
+				"/home/noyan/magwel/qa/etc/log4cpp_api.conf",
+				"/home/noyan/magwel/src/gdsimport/gds/gds.cpp",
+				"/home/noyan/magwel/qa/testcases/import/unitTestcases/incompleteImport/run.out",
+				"/home/noyan/magwel/qa/testcases/import/avoids_abutted_shapes/import.log",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/cdstrextgdslayer.h",
+				"/home/noyan/magwel/src/gdsimport/layoutdata/layoutrect.h",
+				"/home/noyan/magwel/src/gdsimport/layoutdata/layoutrect.cpp",
+				"/home/noyan/magwel/src/gdsimport/gds/gds.h",
+				"/home/noyan/magwel/qa/testcases/import/avoids_abutted_shapes/run.out",
+				"/home/noyan/junk/magwel/src/gdsimport/layoutdata/layoutrepetition.cpp",
+				"/home/noyan/magwel/src/gdsimport/layoutdata/unittest/test_layoutdata.cpp",
+				"/home/noyan/junk/magwel/src/gdsimport/layoutdata/layoutrepetition.h",
+				"/home/noyan/files_magwel/magwel-build-box/ansible.cfg",
+				"/home/noyan/files_magwel/magwel-build-box/playbook.yml",
+				"/home/noyan/junk/camfix/linux-hwe-6.2-6.2.0/drivers/media/usb/uvc/uvc_driver.c",
+				"/home/noyan/junk/magwel/src/gdsimport/layoutdata/layoutdefs.h",
+				"/home/noyan/magwel/src/gdsimport/layoutdata/layoutcell.cpp",
+				"/home/noyan/magwel/src/gdsimport/layoutdata/layoutbox.h",
+				"/home/noyan/junk/test/test.cpp",
+				"/home/noyan/noyan/agent-pi/run.sh",
+				"/home/noyan/noyan/agent-pi/test/serial/serial_test.cpp",
+				"/home/noyan/noyan/agent-pi/src/send.sh",
+				"/home/noyan/.ssh/id_rsa.pub",
+				"/home/noyan/noyan/agent-pi/include/globals.h",
+				"/home/noyan/noyan/agent-pi/include/utils.h",
+				"/home/noyan/noyan/agent-pi/include/arduino_commands.h",
+				"/home/noyan/noyan/agent-pi/src/utils.cpp",
+				"/home/noyan/noyan/agent-pi/include/april_tag_detector.h",
+				"/home/noyan/noyan/agent-pi/src/april_tag_detector.cpp",
+				"/home/noyan/Desktop/sim(1)/sim/GUI.py",
+				"/home/noyan/Desktop/sim(1)/sim/main.py",
+				"/home/noyan/noyan/sim/pid.py",
+				"/home/noyan/noyan/sim/object.py",
+				"/home/noyan/noyan/sim/main.py",
+				"/home/noyan/noyan/sim/send_arr.py",
+				"/home/noyan/noyan/sim/car.py",
+				"/home/noyan/noyan/sim/game_window.py",
+				"/home/noyan/noyan/sim/eren.py",
+				"/home/noyan/magwel/src/editem/editem/gdsimporter/gdsrunner.cpp",
+				"/home/noyan/noyan/sim/send.py",
+				"/home/noyan/noyan/sim/dummy.py",
+				"/home/noyan/Downloads/evol.py",
+				"/home/noyan/magwel/src/codestar/codestar_api/cdstrstructure.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/cdstrgeometry.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/containers/cdstrcontactsurfacecontainer.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/containers/cdstrlayershapecontainer.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/cdstrlayer.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/cdstrlayer.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/cdstrgeometrydefs.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/containers/cdstrlayercontainer.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/containers/cdstrlayercontainer.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/cdstrgeometry.cpp",
+				"/home/noyan/magwel/src/editem/editem/gdsimporter/gdsrunner.h",
+				"/home/noyan/magwel/src/gdsimport/include/gdsimport/gdsrunner.h",
+				"/home/noyan/magwel/src/util/overviewreporter.cpp",
+				"/home/noyan/noyan/evo49/test.py",
+				"/home/noyan/noyan/means-gui/GUI/p5/README.md",
+				"/home/noyan/noyan/means-gui/CopyCat/out/production/CopyCat/coordinates2.txt",
+				"/home/noyan/noyan/means-gui/CopyCat/out/production/CopyCat/jcommon-1.0.23.jar",
+				"/home/noyan/noyan/means-gui/CopyCat/out/production/CopyCat/coordinates3.txt",
+				"/home/noyan/noyan_ws/evo49/main.py",
+				"/home/noyan/magwel_ws/src/gdsimport/include/gdsimport/gds.h",
+				"/home/noyan/magwel_ws/src/gdsimport/src/gds.cpp",
+				"/home/noyan/Desktop/magwel-build-box/playbook.yml",
+				"/home/noyan/magwel_ws/qa/doc/ModulesReadMe",
+				"/home/noyan/Desktop/magwel-build-box/ansible.cfg",
+				"/home/noyan/Desktop/magwel-build-box/hosts.ini"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"include",
+					"#84",
+					"checkTests",
+					"void EsdSummaryView::checkTests( SolverModeDefs::Mode solverMode )"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 57.0
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.references":
+			{
+				"height": 167.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"compilecomman",
+						"compile_commands.json"
+					],
+					[
+						"filere",
+						"util/filereader.cpp"
+					],
+					[
+						"threadpool",
+						"util/threadpool.cpp"
+					],
+					[
+						"noyan",
+						"noyanzoom.deb"
+					],
+					[
+						"cmake",
+						"CMakeLists.txt"
+					],
+					[
+						"runner.cpp",
+						"gdsimport/src/gdsrunner.cpp"
+					],
+					[
+						"gdsrunner.cpp",
+						"gdsimport/gdsrunner.cpp"
+					],
+					[
+						"gds.h",
+						"gdsimport/include/gdsimport/gds.h"
+					],
+					[
+						"gdstrans",
+						"gdsimport/include/gdsimport/gdstransform.h"
+					],
+					[
+						"gdsrunner.cp",
+						"gdsimport/src/gdsrunner.cpp"
+					],
+					[
+						"gds.cpp",
+						"gdsimport/src/gds.cpp"
+					],
+					[
+						"repetition.cpp",
+						"gdsimport/layoutdata/layoutrepetition.cpp"
+					],
+					[
+						"layoutdef",
+						"gdsimport/layoutdata/layoutdefs.h"
+					],
+					[
+						"layoutrepe",
+						"gdsimport/layoutdata/layoutrepetition.h"
+					],
+					[
+						"layoutcell",
+						"gdsimport/layoutdata/layoutcell.cpp"
+					],
+					[
+						"layoutbox",
+						"gdsimport/layoutdata/layoutbox.h"
+					],
+					[
+						"glob",
+						"include/globals.h"
+					],
+					[
+						"run.",
+						"run.sh"
+					],
+					[
+						"serial",
+						"test/serial/serial_test.cpp"
+					],
+					[
+						"main",
+						"src/main.cpp"
+					],
+					[
+						"serial_test",
+						"test/serial/serial_test.cpp"
+					],
+					[
+						"tag",
+						"include/tag_pose.h"
+					],
+					[
+						"ardui",
+						"include/arduino_commands.h"
+					],
+					[
+						"utilsc",
+						"src/utils.cpp"
+					],
+					[
+						"util",
+						"include/utils.h"
+					],
+					[
+						"april",
+						"src/april_tag_detector.cpp"
+					],
+					[
+						"agent.h",
+						"include/agent.h"
+					],
+					[
+						"agen.cp",
+						"src/agent.cpp"
+					],
+					[
+						"runner.h",
+						"gdsimport/include/gdsimport/gdsrunner.h"
+					],
+					[
+						"tagpos",
+						"include/tag_pose.h"
+					],
+					[
+						"ino",
+						"test/serial/arduino_serial/arduino_serial.ino"
+					],
+					[
+						"cam",
+						"include/camera_controller.h"
+					],
+					[
+						"camer",
+						"src/camera_controller.cpp"
+					],
+					[
+						"agen.c",
+						"src/agent.cpp"
+					],
+					[
+						"simple",
+						"src/simple_controller.cpp"
+					],
+					[
+						"agen.h",
+						"include/agent.h"
+					],
+					[
+						"sedn",
+						"send_arr.py"
+					],
+					[
+						"gdsrunner.h",
+						"gdsimport/include/gdsimport/gdsrunner.h"
+					],
+					[
+						"gdsrunner",
+						"gdsimport/src/gdsrunner.cpp"
+					],
+					[
+						"dummy",
+						"dummy.py"
+					],
+					[
+						"dgsrunner.h",
+						"editem/editem/gdsimporter/gdsrunner.h"
+					],
+					[
+						"cdstrlayer.cp",
+						"codestar/codestar_api/geometry/cdstrlayer.cpp"
+					],
+					[
+						"cdstrlayercontaine",
+						"codestar/codestar_api/geometry/containers/cdstrlayercontainer.h"
+					],
+					[
+						"cdstrlayer",
+						"codestar/codestar_api/geometry/cdstrlayer.cpp"
+					],
+					[
+						"layercontainer",
+						"codestar/codestar_api/geometry/containers/cdstrlayercontainer.cpp"
+					],
+					[
+						"cdstrlayercon",
+						"codestar/codestar_api/geometry/containers/cdstrlayercontainer.cpp"
+					],
+					[
+						"cdstrgeometry.h",
+						"codestar/codestar_api/geometry/cdstrgeometry.h"
+					],
+					[
+						"cdstrstructure.h",
+						"codestar/codestar_api/cdstrstructure.h"
+					],
+					[
+						"runner",
+						"src/gdsrunner.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 35.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 592.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 244.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1409.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Cdstr",
+						"CdstrCellMaster"
+					],
+					[
+						"_addSHapes",
+						"_addShapesToExternal"
+					],
+					[
+						"print",
+						"printClass"
+					],
+					[
+						"prin",
+						"printClass"
+					],
+					[
+						"new",
+						"new_x_offset"
+					],
+					[
+						"tick",
+						"tickSimpleControllers"
+					],
+					[
+						"left_con",
+						"left_controller_simple_"
+					],
+					[
+						"LEFT",
+						"LEFT_MOTOR_P"
+					],
+					[
+						"liear",
+						"current_linear_speed_"
+					],
+					[
+						"angul",
+						"angular_speed"
+					],
+					[
+						"angu",
+						"angular_speed"
+					],
+					[
+						"LIM_",
+						"LIN_LIM_MAX"
+					],
+					[
+						"mutate",
+						"mutated_pop"
+					],
+					[
+						"chid",
+						"children_updated_pop"
+					],
+					[
+						"num_gen",
+						"num_genes"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/noyan/magwel/src/util/filereader.cpp",
+					"redo_stack":
+					[
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "\t\t"
+							},
+							"AgAAAOVhAAAAAAAA5WEAAAAAAAACAAAAICDjYQAAAAAAAONhAAAAAAAAAgAAACAg",
+							"AQAAAAAAAAABAAAA52EAAAAAAADnYQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"delete_word",
+							{
+								"forward": false
+							},
+							"AQAAAONhAAAAAAAA5mEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA42EAAAAAAADjYQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": "\t\t"
+							},
+							"AgAAAJxhAAAAAAAAnGEAAAAAAAACAAAAICCaYQAAAAAAAJphAAAAAAAAAgAAACAg",
+							"AQAAAAAAAAABAAAAnmEAAAAAAACeYQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"delete_word",
+							{
+								"forward": false
+							},
+							"AQAAAJphAAAAAAAAnWEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmmEAAAAAAACaYQAAAAAAAAAAAAAAAPC/"
+						]
+					],
+					"settings":
+					{
+						"buffer_size": 38905,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"settings",
+						"Preferences: LSP-clangd Settings"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove\\",
+						"Package Control: Remove Package"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/noyan/magwel/src",
+				"/home/noyan/magwel/src/rf3dutil",
+				"/home/noyan/magwel/src/rf3dutil/src"
+			],
+			"file_history":
+			[
+				"/home/noyan/magwel/src/.clangd",
+				"/home/noyan/magwel/src/compile_commands.json",
+				"/home/noyan/magwel/src/util/solvermode.h",
+				"/home/noyan/magwel/src/editem/editem/esdsummaryview/esdsummaryview.cpp",
+				"/home/noyan/magwel/src/util/threadpool.cpp",
+				"/home/noyan/magwel/src/rf3dutil/src/abstractdatafile.h",
+				"/home/noyan/magwel/src/util/testarchive/overstresseddevicelocation.h",
+				"/home/noyan/magwel/src/util/testarchive/overstresseddevicelocationinfo.h",
+				"/home/noyan/Desktop/noyanlog.txt",
+				"/home/noyan/Desktop/noyan (3).txt",
+				"/home/noyan/Desktop/noyan.txt",
+				"/home/noyan/Downloads/noyanzoom.deb",
+				"/home/noyan/Downloads/solver_out.log",
+				"/home/noyan/Desktop/Untitled Document 1asd",
+				"/home/noyan/Downloads/alacritty.yml",
+				"/home/noyan/noyan/comput/CMakeLists.txt",
+				"/home/noyan/noyan/think-cell/main.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/main.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/tools/cdstrextgeometry.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/cdstrexternaloperations.cpp",
+				"/home/noyan/magwel/src/gdsimport/src/gdsrunner.cpp",
+				"/home/noyan/magwel/src/util/memstats.h",
+				"/home/noyan/Downloads/playbook.yml",
+				"/home/noyan/noyan/comput/CmakeLists.txt",
+				"/home/noyan/noyan/comput/device.cpp",
+				"/home/noyan/noyan/agent-pi/CMakeLists.txt",
+				"/home/noyan/noyan/agent-pi/src/main.cpp",
+				"/home/noyan/magwel/src/gdsimport/gdsrunner.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/shapecorrectors.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/shapecorrectors.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/cdstrextgdslayer.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/cdstrextedgetrafocoltors.cpp",
+				"/home/noyan/junk/magwel/src/gdsimport/gdsrunner.cpp",
+				"/home/noyan/junk/compare/input.txt",
+				"/home/noyan/magwel/qa/testcases/import/avoids_abutted_shapes/valgrind-out.mem.txt",
+				"/home/noyan/junk/compare/input",
+				"/home/noyan/magwel/qa/testcases/import/unitTestcases/gds/via_sandwich/valgrind-out.mem.txt",
+				"/home/noyan/junk/magwel/qa/testcases/import/unitTestcases/gds/via_sandwich/valgrind-out.mem.txt",
+				"/home/noyan/magwel/qa/testcases/import/unitTestcases/gds/cell_instances/array_cells/valgrind-out.mem.txt",
+				"/home/noyan/junk/magwel/qa/testcases/import/unitTestcases/gds/cell_instances/array_cells/valgrind-out.mem.txt",
+				"/home/noyan/magwel/qa/testcases/import/unitTestcases/externalPads/empower/valgrind-out.mem.txt",
+				"/home/noyan/magwel/qa/testcases/import/unitTestcases/gds/cell_instances/row_column_cells/valgrind-out.mem.txt",
+				"/home/noyan/magwel/qa/testcases/import/unitTestcases/gds/cell_instances/rotated_array_cells/valgrind-out.mem.txt",
+				"/home/noyan/junk/magwel/src/gdsimport/include/gdsimport/gds.h",
+				"/home/noyan/junk/magwel/src/gdsimport/include/gdsimport/gdstransform.h",
+				"/home/noyan/junk/magwel/src/gdsimport/src/gds.cpp",
+				"/home/noyan/junk/magwel/src/gdsimport/src/gdsrunner.cpp",
+				"/home/noyan/junk/magwel/src/rf3dutil/depcomp",
+				"/home/noyan/magwel/qa/etc/log4cpp_api.conf",
+				"/home/noyan/magwel/src/gdsimport/gds/gds.cpp",
+				"/home/noyan/magwel/qa/testcases/import/unitTestcases/incompleteImport/run.out",
+				"/home/noyan/magwel/qa/testcases/import/avoids_abutted_shapes/import.log",
+				"/home/noyan/magwel/src/codestar/codestar_api/external/cdstrextgdslayer.h",
+				"/home/noyan/magwel/src/gdsimport/layoutdata/layoutrect.h",
+				"/home/noyan/magwel/src/gdsimport/layoutdata/layoutrect.cpp",
+				"/home/noyan/magwel/src/gdsimport/gds/gds.h",
+				"/home/noyan/magwel/qa/testcases/import/avoids_abutted_shapes/run.out",
+				"/home/noyan/junk/magwel/src/gdsimport/layoutdata/layoutrepetition.cpp",
+				"/home/noyan/magwel/src/gdsimport/layoutdata/unittest/test_layoutdata.cpp",
+				"/home/noyan/junk/magwel/src/gdsimport/layoutdata/layoutrepetition.h",
+				"/home/noyan/files_magwel/magwel-build-box/ansible.cfg",
+				"/home/noyan/files_magwel/magwel-build-box/playbook.yml",
+				"/home/noyan/junk/camfix/linux-hwe-6.2-6.2.0/drivers/media/usb/uvc/uvc_driver.c",
+				"/home/noyan/junk/magwel/src/gdsimport/layoutdata/layoutdefs.h",
+				"/home/noyan/magwel/src/gdsimport/layoutdata/layoutcell.cpp",
+				"/home/noyan/magwel/src/gdsimport/layoutdata/layoutbox.h",
+				"/home/noyan/junk/test/test.cpp",
+				"/home/noyan/noyan/agent-pi/run.sh",
+				"/home/noyan/noyan/agent-pi/test/serial/serial_test.cpp",
+				"/home/noyan/noyan/agent-pi/src/send.sh",
+				"/home/noyan/.ssh/id_rsa.pub",
+				"/home/noyan/noyan/agent-pi/include/globals.h",
+				"/home/noyan/noyan/agent-pi/include/utils.h",
+				"/home/noyan/noyan/agent-pi/include/arduino_commands.h",
+				"/home/noyan/noyan/agent-pi/src/utils.cpp",
+				"/home/noyan/noyan/agent-pi/include/april_tag_detector.h",
+				"/home/noyan/noyan/agent-pi/src/april_tag_detector.cpp",
+				"/home/noyan/Desktop/sim(1)/sim/GUI.py",
+				"/home/noyan/Desktop/sim(1)/sim/main.py",
+				"/home/noyan/noyan/sim/pid.py",
+				"/home/noyan/noyan/sim/object.py",
+				"/home/noyan/noyan/sim/main.py",
+				"/home/noyan/noyan/sim/send_arr.py",
+				"/home/noyan/noyan/sim/car.py",
+				"/home/noyan/noyan/sim/game_window.py",
+				"/home/noyan/noyan/sim/eren.py",
+				"/home/noyan/magwel/src/editem/editem/gdsimporter/gdsrunner.cpp",
+				"/home/noyan/noyan/sim/send.py",
+				"/home/noyan/noyan/sim/dummy.py",
+				"/home/noyan/Downloads/evol.py",
+				"/home/noyan/magwel/src/codestar/codestar_api/cdstrstructure.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/cdstrgeometry.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/containers/cdstrcontactsurfacecontainer.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/containers/cdstrlayershapecontainer.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/cdstrlayer.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/cdstrlayer.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/cdstrgeometrydefs.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/containers/cdstrlayercontainer.h",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/containers/cdstrlayercontainer.cpp",
+				"/home/noyan/magwel/src/codestar/codestar_api/geometry/cdstrgeometry.cpp",
+				"/home/noyan/magwel/src/editem/editem/gdsimporter/gdsrunner.h",
+				"/home/noyan/magwel/src/gdsimport/include/gdsimport/gdsrunner.h",
+				"/home/noyan/magwel/src/util/overviewreporter.cpp",
+				"/home/noyan/noyan/evo49/test.py",
+				"/home/noyan/noyan/means-gui/GUI/p5/README.md",
+				"/home/noyan/noyan/means-gui/CopyCat/out/production/CopyCat/coordinates2.txt",
+				"/home/noyan/noyan/means-gui/CopyCat/out/production/CopyCat/jcommon-1.0.23.jar",
+				"/home/noyan/noyan/means-gui/CopyCat/out/production/CopyCat/coordinates3.txt",
+				"/home/noyan/noyan_ws/evo49/main.py",
+				"/home/noyan/magwel_ws/src/gdsimport/include/gdsimport/gds.h",
+				"/home/noyan/magwel_ws/src/gdsimport/src/gds.cpp",
+				"/home/noyan/Desktop/magwel-build-box/playbook.yml",
+				"/home/noyan/magwel_ws/qa/doc/ModulesReadMe",
+				"/home/noyan/Desktop/magwel-build-box/ansible.cfg",
+				"/home/noyan/Desktop/magwel-build-box/hosts.ini"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"include",
+					"#84",
+					"checkTests",
+					"void EsdSummaryView::checkTests( SolverModeDefs::Mode solverMode )"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/noyan/magwel/src"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/noyan/magwel/src/util/filereader.cpp",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 38905,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										24592,
+										24592
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html, text.xml"
+										},
+										{
+											"rhs_empty": true,
+											"selector": "punctuation.accessor"
+										},
+										{
+											"characters": ".<>:\"/*",
+											"selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
+											"server": "clangd"
+										}
+									],
+									"lsp_active": true,
+									"lsp_hover_provider_count": 1,
+									"lsp_uri": "file:///home/noyan/magwel/src/util/filereader.cpp",
+									"show_definitions": false,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 14856.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 57.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.references":
+			{
+				"height": 167.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,1850,1007,3840,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"compilecomman",
+						"compile_commands.json"
+					],
+					[
+						"filere",
+						"util/filereader.cpp"
+					],
+					[
+						"threadpool",
+						"util/threadpool.cpp"
+					],
+					[
+						"noyan",
+						"noyanzoom.deb"
+					],
+					[
+						"cmake",
+						"CMakeLists.txt"
+					],
+					[
+						"runner.cpp",
+						"gdsimport/src/gdsrunner.cpp"
+					],
+					[
+						"gdsrunner.cpp",
+						"gdsimport/gdsrunner.cpp"
+					],
+					[
+						"gds.h",
+						"gdsimport/include/gdsimport/gds.h"
+					],
+					[
+						"gdstrans",
+						"gdsimport/include/gdsimport/gdstransform.h"
+					],
+					[
+						"gdsrunner.cp",
+						"gdsimport/src/gdsrunner.cpp"
+					],
+					[
+						"gds.cpp",
+						"gdsimport/src/gds.cpp"
+					],
+					[
+						"repetition.cpp",
+						"gdsimport/layoutdata/layoutrepetition.cpp"
+					],
+					[
+						"layoutdef",
+						"gdsimport/layoutdata/layoutdefs.h"
+					],
+					[
+						"layoutrepe",
+						"gdsimport/layoutdata/layoutrepetition.h"
+					],
+					[
+						"layoutcell",
+						"gdsimport/layoutdata/layoutcell.cpp"
+					],
+					[
+						"layoutbox",
+						"gdsimport/layoutdata/layoutbox.h"
+					],
+					[
+						"glob",
+						"include/globals.h"
+					],
+					[
+						"run.",
+						"run.sh"
+					],
+					[
+						"serial",
+						"test/serial/serial_test.cpp"
+					],
+					[
+						"main",
+						"src/main.cpp"
+					],
+					[
+						"serial_test",
+						"test/serial/serial_test.cpp"
+					],
+					[
+						"tag",
+						"include/tag_pose.h"
+					],
+					[
+						"ardui",
+						"include/arduino_commands.h"
+					],
+					[
+						"utilsc",
+						"src/utils.cpp"
+					],
+					[
+						"util",
+						"include/utils.h"
+					],
+					[
+						"april",
+						"src/april_tag_detector.cpp"
+					],
+					[
+						"agent.h",
+						"include/agent.h"
+					],
+					[
+						"agen.cp",
+						"src/agent.cpp"
+					],
+					[
+						"runner.h",
+						"gdsimport/include/gdsimport/gdsrunner.h"
+					],
+					[
+						"tagpos",
+						"include/tag_pose.h"
+					],
+					[
+						"ino",
+						"test/serial/arduino_serial/arduino_serial.ino"
+					],
+					[
+						"cam",
+						"include/camera_controller.h"
+					],
+					[
+						"camer",
+						"src/camera_controller.cpp"
+					],
+					[
+						"agen.c",
+						"src/agent.cpp"
+					],
+					[
+						"simple",
+						"src/simple_controller.cpp"
+					],
+					[
+						"agen.h",
+						"include/agent.h"
+					],
+					[
+						"sedn",
+						"send_arr.py"
+					],
+					[
+						"gdsrunner.h",
+						"gdsimport/include/gdsimport/gdsrunner.h"
+					],
+					[
+						"gdsrunner",
+						"gdsimport/src/gdsrunner.cpp"
+					],
+					[
+						"dummy",
+						"dummy.py"
+					],
+					[
+						"dgsrunner.h",
+						"editem/editem/gdsimporter/gdsrunner.h"
+					],
+					[
+						"cdstrlayer.cp",
+						"codestar/codestar_api/geometry/cdstrlayer.cpp"
+					],
+					[
+						"cdstrlayercontaine",
+						"codestar/codestar_api/geometry/containers/cdstrlayercontainer.h"
+					],
+					[
+						"cdstrlayer",
+						"codestar/codestar_api/geometry/cdstrlayer.cpp"
+					],
+					[
+						"layercontainer",
+						"codestar/codestar_api/geometry/containers/cdstrlayercontainer.cpp"
+					],
+					[
+						"cdstrlayercon",
+						"codestar/codestar_api/geometry/containers/cdstrlayercontainer.cpp"
+					],
+					[
+						"cdstrgeometry.h",
+						"codestar/codestar_api/geometry/cdstrgeometry.h"
+					],
+					[
+						"cdstrstructure.h",
+						"codestar/codestar_api/cdstrstructure.h"
+					],
+					[
+						"runner",
+						"src/gdsrunner.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 35.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 592.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 244.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 50,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
